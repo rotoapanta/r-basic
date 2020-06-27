@@ -2,9 +2,12 @@
 *Con Juan Gabriel Gomila y María Santos*
 
 *Curso tomado por Roberto*
-*Prueba git*
-*prueba2*
 
+*Prueba git*
+
+*prueba3*
+
+*prueba*
 Conoce toda la estadística descriptiva de la mano de Juan Gabriel Gomila y asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del curso. En particular verás los mismos contenidos que explicamos en primera de carrera a matemáticos, ingenieros o informáticos como por ejemplo:
 
 * Logística e instalación de R y RStudio y de Anaconda Navigator para Python
